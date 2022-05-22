@@ -6,7 +6,7 @@
 
 
 $(document).ready(function(){
-    $.getJSON("http://127.0.0.1:5500/json/data.json", function (data){
+    $.getJSON("./json/data.json", function (data){
       var Carboidratos_data = '';
       $.each(data, function(key,value){
         Carboidratos_data +='<tr>';
