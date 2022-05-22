@@ -1,0 +1,64 @@
+[
+   {
+      "nome":"Arroz",
+      "gramas":"28",
+      "proteina":"1",
+      "sodio":"250"
+    
+   },
+   {
+      "nome":"Macarrão",
+      "gramas":"30,86",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Tapioca",
+      "gramas":"94",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Aveia",
+      "gramas":"66",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Mandioca",
+      "gramas":"30",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Mandioquinha",
+      "gramas":"19,6",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Batata Doce",
+      "gramas":"18",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Pão integral",
+      "gramas":"48",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Pão de Forma",
+      "gramas":"50",
+      "proteina":"1",
+      "sodio":"250"
+   },
+   {
+      "nome":"Pão Frances",
+      "gramas":"50",
+      "proteina":"1",
+      "sodio":"250"
+   }
+  
+]
