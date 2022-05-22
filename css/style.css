@@ -141,7 +141,7 @@ tr{
 @media only screen and (max-width:480px){
     .asside{
     
-        width: 480px;
+        width: 100%;
         margin-left: 0px;
         padding-left: 3%;
     }
