@@ -130,7 +130,7 @@ tr{
 
 @media only screen and (max-width:480px){
     #Container{
-     
+       background-color: #eef1f1;
         width:480px;
 
     
@@ -149,8 +149,8 @@ tr{
 }
 @media only screen and (max-width:480px){
     h2{
-    
-        width: 480px;
+        background-color: #eef1f1;
+        width: 98%;
         margin-left: 0px;
         padding-left: 2px;
     }
