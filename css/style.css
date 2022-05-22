@@ -131,7 +131,7 @@ tr{
 @media only screen and (max-width:480px){
     #Container{
        background-color: #eef1f1;
-        width:100%;
+        width:480px;
 
     
     }
@@ -141,7 +141,7 @@ tr{
 @media only screen and (max-width:480px){
     .asside{
     
-        width: 100%;
+        width: 480px;
         margin-left: 0px;
         padding-left: 3%;
     }
@@ -150,7 +150,7 @@ tr{
 @media only screen and (max-width:480px){
     h2{
     
-        width: 100%;
+        width: 480px;
         margin-left: 0px;
         padding-left: 2px;
     }
