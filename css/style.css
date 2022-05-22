@@ -97,3 +97,62 @@ tr{
     height: 700px;
 }
 
+
+@media only screen and (max-width:850px){
+    .logojs{
+       display: none;
+
+    
+    }
+    
+}
+
+@media only screen and (max-width:850px){
+    #main{
+       display:flex;
+       flex-direction: column;
+   
+
+    
+    }
+    
+}
+@media only screen and (max-width:480px){
+    #main{
+       display:flex;
+       flex-direction: column;
+        width: auto;
+
+    
+    }
+    
+}
+
+@media only screen and (max-width:480px){
+    #Container{
+       background-color: #eef1f1;
+        width: 480px;
+
+    
+    }
+    
+}
+
+@media only screen and (max-width:480px){
+    .asside{
+    
+        width: 480px;
+        margin-left: 0px;
+        padding-left: 3%;
+    }
+    
+}
+@media only screen and (max-width:480px){
+    h2{
+    
+        width: 480px;
+        margin-left: 0px;
+        padding-left: 2px;
+    }
+    
+}
